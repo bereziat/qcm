@@ -1,0 +1,6 @@
+* =qcm.py=
+  créer un qcm
+  
+* =corriger.py=
+  corrige une copie
+
